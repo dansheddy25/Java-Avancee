@@ -1,0 +1,21 @@
+.root{
+    -fx-font-family: Montserrat;
+}
+
+.button{
+    -fx-border-radius:50px;
+    -fx-padding: 10px;
+    -fx-font-family: "Trebuchet MS";
+}
+
+.button:focused{
+}
+
+.text-field{
+    -fx-background-color: #e5e5c7;
+    -fx-border-color: #5da9ea;
+}
+
+.text-style{
+    -fx-font-weight: bold;
+}
